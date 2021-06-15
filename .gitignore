@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+/config.yaml
+/cf-cache-test.db
+/cf-cache-test.db-journal

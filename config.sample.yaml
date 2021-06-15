@@ -1,0 +1,14 @@
+url:
+ - https://example.com/
+ - https://cache-test.example.workers.dev/
+
+status:
+ - 200
+ - 404
+ - 503
+
+cache:
+ - ""
+ - "public"
+ - "public, max-age=80"
+ - "public, s-maxage=80"
